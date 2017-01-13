@@ -1,0 +1,7 @@
+441.0,129.99839999999998,0.0,0.0,0.0,0.0,438.0,201.99839999999998,0.0,0.0,0.0,0.0,2,4,0,0,0,0,2,4,0,0,0,0,126.0,228.0,0.0,0.0,0.0,0.0,403.9992,120.9984,0.0,0.0,0.0,0.0,126.0,228.0,0.0,0.0,0.0,0.0,
+2
+0
+1
+Player 1 moved to GAVLE,Player 1 moved to SUNDSVALL,Player 1 moved to LULEA,Player 1 moved to ROVANIEMI,Player 1 moved to OULU,Player 2 moved to BUDAPEST,Player 2 moved to ZAGREB,Player 1 moved to VAASA,Player 1 moved to TAMPERE,Player 1 moved to HELSINKI,
+STOCKHOLM,KIJEV,CATANIA,
+MISKOLC,PALERMO,KARLSTAD,
